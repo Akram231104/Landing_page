@@ -48,3 +48,23 @@ button{
     display: flex;
     justify-content: space-around;
 }
+blockquote{
+    background-color: #e5e7eb;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: 36px;
+}
+.sign{
+    display: flex;
+    justify-content: center;
+}
+.sign{
+    display: flex;
+    flex-direction: column;
+}
+.footer{
+    background-color: #1F2937;
+    color:white;
+    display: flex;
+    justify-content: center;
+}
