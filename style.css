@@ -36,3 +36,15 @@ button{
     font-size: xx-small;
     color: #e5e7eb;
 }
+.title-1{
+    display: flex;
+    justify-content: center;
+}
+.images{
+    display: flex;
+    justify-content: space-around;
+}
+.paragrahpes{
+    display: flex;
+    justify-content: space-around;
+}
